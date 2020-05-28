@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+No aparecía ningún lápiz pero encontré donde decía EDIT jeje
 Use the left arrow to go back!
